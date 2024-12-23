@@ -1,0 +1,55 @@
+function fdata = fns_Puddle_lPFC_5ch_dorsal
+%file (unit) names for 5ch task recorded in Puddle left dorsal PFC
+% Puddle = monkey A
+
+fdata = { 
+'Pud20151009a_ch31_1'
+'Pud20150930a_ch31_1'
+'Pud20150930a_ch27_2'
+'Pud20150930a_ch27_1'
+'Pud20150930a_ch16_1'
+'Pud20150923a_ch32_2'
+'Pud20150923a_ch32_1'
+'Pud20150923a_ch28_1'
+'Pud20150914a_ch32_1'
+'Pud20150914a_ch28_1'
+'Pud20150914a_ch15_2'
+'Pud20150914a_ch15_1'
+'Pud20150903a_ch32_1'
+'Pud20150903a_ch28_2'
+'Pud20150903a_ch28_1'
+'Pud20151009a_ch32_1'
+'Pud20151009a_ch09_2'
+'Pud20151009a_ch09_1'
+'Pud20150930a_ch09_1'
+'Pud20150923a_ch10_2'
+'Pud20150923a_ch10_1'
+'Pud20151009a_ch30_1'
+'Pud20151009a_ch10_1'
+'Pud20151009a_ch04_1'
+'Pud20150930a_ch30_1'
+'Pud20150930a_ch10_1'
+'Pud20150930a_ch04_1'
+'Pud20150923a_ch29_1'
+'Pud20150923a_ch03_1'
+'Pud20150914a_ch09_2'
+'Pud20150914a_ch09_1'
+'Pud20150914a_ch03_2'
+'Pud20150914a_ch03_1'
+'Pud20151009a_ch24_2'
+'Pud20151009a_ch24_1'
+'Pud20150304a_ch36_1'
+'Pud20150513a_ch41_2'
+'Pud20150302a_ch50_2'
+'Pud20150226a_ch61_1'
+'Pud20150226a_ch36_1'
+'Pud20150302a_ch38_1'
+'Pud20150226a_ch62_1'
+'Pud20150302a_ch50_1'
+'Pud20141217a_ch60_1'
+'Pud20150204a_ch38_1'
+ 
+
+}
+
+
